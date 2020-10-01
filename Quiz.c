@@ -281,7 +281,7 @@ int main()
 				}
 				else
 				{
-					printf("\n\nWrong!!! The correct answer is B.Power");
+					printf("\n\nWrong!!! The correct answer is B.watt");
 					getch();
 					goto score;
 					break;
