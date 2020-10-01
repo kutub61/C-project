@@ -15,6 +15,8 @@ int main()
 	char playername[20];
 	mainhome:
 	system("cls");
+	printf("\n\t\t C programe Quiz game...");
+	printf("\n\t\t created by md. manwar hossain");
 	printf("\n\t\t > Press S to start the game");
 	printf("\n\t\t > Press V to view the highest score  ");
 	printf("\n\t\t > Press R to reset score");
