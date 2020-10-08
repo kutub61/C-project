@@ -1,2 +1,4 @@
 # C-project
-it's a C programming Quiz game project
+My all of C programming projects is here..
+• Quiz Game
+
