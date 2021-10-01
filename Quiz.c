@@ -44,7 +44,7 @@ int main()
 	{
 		system("cls");
 
-		printf("\n\n\n\n\n\n\n\n\n\n\t\t\tResister your name:");
+		printf("\n\n\n\n\n\n\n\n\n\n\t\t\tResister your name: ");
 		gets(playername);
 
 		system("cls");
