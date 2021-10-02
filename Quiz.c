@@ -89,7 +89,7 @@ int main()
 			switch (r1)
 			{
 			case 1:
-				printf("\n\nWhich of the following is a Palindrome number?");
+				printf("\n\nWhich of the following is a Palindrome number ?");
 				printf("\n\nA.42042\t\tB.101010\n\nC.23232\t\tD.01234");
 				if (toupper(getch())=='C')
 				{
